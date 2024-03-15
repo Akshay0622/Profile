@@ -35,11 +35,13 @@
 <p align="center">
 
 - **Languages**: </n>
+
 <img src="https://img.shields.io/badge/C%23%20-%232370ED.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# badge">  </n>
 <img src="https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java badge"> <br>
 
     
 - **Front End Technology**:
+- 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  <br>
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  <br>
    <img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular badge">
