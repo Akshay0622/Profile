@@ -1,8 +1,8 @@
 <<<<<<< HEAD
 # MyProfile
-“I am ambitious and driven. I thrive on challenge and constantly set goals for myself, so I have something to strive towards. I am not comfortable with settling, and I am always looking for an opportunity to do better and achieve greatness. In my previous role
-//bin
-=======
+“I am ambitious and driven. I thrive on challanges and constantly set goals for myself, so I have something to strive towards. I am not comfortable with settling, and I am always looking for an opportunity to do better and achieve greatness. In my previous role
+
+
 
 <h1 align="center"><b>Hi , I'm AKSHAY TANPURE </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -16,9 +16,9 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/Akshay0622/Akshay0622/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAkshayTanpure/0xAkshayTanpure/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Akshay0622/Akshay0622/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
@@ -36,7 +36,7 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+   <<-- ![C](https://img.shields.io/badge/C#%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white) -->>
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![JAVA]
@@ -88,7 +88,7 @@
 
 <a href="https://github.com/OxErAkshay2210/">
   <img src="https://github-readme-stats.vercel.app/api?username=ErAkshay2210&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ErAkshay2210&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="ErAkshay2210"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay0622&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Akshay0622"/>
 
 </a>
 </div>
@@ -102,7 +102,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/ErAkshay2210/ErAkshay2210/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/Akshay0622/Akshay0622/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -125,7 +125,7 @@
 <br>
 
 <li>
-<a href="mailto:akshaytanpure2210@gmail.com" target="_blank">
+<a href="mailto:akshaytanpure226@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  0xakshaytanpure-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
@@ -148,5 +148,5 @@
 
 <br>
 
-Credit: [Akshay Tanpure](https://github.com/0xErAkshay2210)
->>>>>>> 2c884754b5f6820c34d9fe8052ba45fefe196677
+Credit: [Akshay Tanpure](https://github.com/Akshay0622)
+
