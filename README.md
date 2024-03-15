@@ -35,19 +35,27 @@
 <p align="center">
 
 - **Languages**:
- <img src="https://img.shields.io/badge/.NET%20-%23239120.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET badge">
     <img src="https://img.shields.io/badge/C%23%20-%232370ED.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# badge">
     <img src="https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java badge">
-    <img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular badge">
-    <img src="https://img.shields.io/badge/MySQL%20-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge"> 
+
     
 - **Front End Technology**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  
+   <img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular badge">
 
 <br>
+
+- **Database**:
+-     <img src="https://img.shields.io/badge/MySQL%20-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge">
+
+  <br>
+
+  
+- **Technology**:
+ <img src="https://img.shields.io/badge/.NET%20-%23239120.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET badge">
+  <br>
 
 - **Cloud Hosting**:
 
