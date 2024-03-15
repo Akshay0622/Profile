@@ -48,7 +48,7 @@
 <br>
 
 - **Database**:
--     <img src="https://img.shields.io/badge/MySQL%20-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge">
+      <img src="https://img.shields.io/badge/MySQL%20-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge">
 
   <br>
 
