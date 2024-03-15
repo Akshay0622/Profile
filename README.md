@@ -35,7 +35,9 @@
 <p align="center">
 
 - **Languages**:
+ /n
     <img src="https://img.shields.io/badge/C%23%20-%232370ED.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# badge">
+    
     <img src="https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java badge">
 
     
