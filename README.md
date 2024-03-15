@@ -35,10 +35,6 @@
 <p align="center">
 
 - **Languages**:
-    
-    ![C](https://img.shields.io/badge/C#%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white) 
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
  <img src="https://img.shields.io/badge/.NET%20-%23239120.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET badge">
     <img src="https://img.shields.io/badge/C%23%20-%232370ED.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# badge">
     <img src="https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java badge">
