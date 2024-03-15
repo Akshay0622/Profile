@@ -109,7 +109,7 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/ErAkshay2210" target="_blank">
+<a href="[https://linkedin.com/in/ErAkshay2210](https://www.linkedin.com/in/akshay-tanpure-691b67246/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION)" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Akshay0622%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
