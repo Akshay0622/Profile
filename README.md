@@ -1,6 +1,6 @@
 
 # Profile
-“I am ambitious and driven. I thrive on challanges and constantly set goals for myself, so I have something to strive towards. I am not comfortable with settling, and I am always looking for an opportunity to do better and achieve greatness. In my previous role
+“I am ambitious and driven. I thrive on challenges and constantly set goals for myself, so I have something to strive towards. I am not comfortable with settling, and I am always looking for an opportunity to do better and achieve greatness. In my previous role
 
 
 
@@ -23,7 +23,7 @@
 <br>
 
 - A passionate Self-taught Full Stack developer
-- Currently learning Web Development by Mentor Ravi Tambade
+- Currently learning Web Development
 
 <br><br>
 
