@@ -45,6 +45,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  <br>
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  <br>
 <img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular badge">
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 - **Database**: </n>
  <img src="https://img.shields.io/badge/MySQL%20-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge">
@@ -138,7 +139,19 @@
 
 ---
 
+<be>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
+
+<div align="center">
+
+<a href="https://github.com/Akshay0622/">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshay0622&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay0622&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Akshay0622"/>
+
+</a>
+</div>
 
 Credit: [Akshay Tanpure](https://github.com/Akshay0622)
 
