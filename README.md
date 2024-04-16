@@ -80,9 +80,9 @@
   </li>
   <br>
   <li>
-    <a href="https://twitter.com/Akshay0622" target="_blank">
+ <!--   <a href="https://twitter.com/Akshay0622" target="_blank">
       <img src="https://img.shields.io/badge/twitter%3A%20Akshay0622%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;"/>
-    </a>
+    </a> -->
   </li>
   <br>
   <li>
