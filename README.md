@@ -55,13 +55,13 @@
 </a>
    -->
 
-<div align="center">
+<div align="left">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay0622&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Akshay0622"/><br>
 
 
 <!-- Github Streak -->
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay0622&theme=dark" alt="GitHub Streak" />
 </p>
 </a>
